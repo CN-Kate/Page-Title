@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+     font-family: 'Manrope', sans-serif;
+    background: linear-gradient(to bottom, #003442, #aaeef0, #f6f6f6);
+    background-size: cover;
+      background-repeat: no-repeat;
+}
+   
+
+
+h2{    font-family: 'Purple Purse', cursive;
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #003442, 2px 2px 8px white;}
+
+
+img {
+    width: 250px;
+    border-radius:5px;
+    border: 2px ridge gold;
+}
+
+.Gandalf {
+    border-radius: 50%;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px ridge gold;
+}
+
+.spell {
+    margin: 10px;
+    
+    padding: 5px;
+    
+    border-radius: 5px;
+}
+
+.spells {
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    color: blue;
+        font-family: 'Purple Purse', cursive;
+}
+
+.header {
+
+font-size:50px;font-family: 'Purple Purse', cursive;
+    color: white;
+
+    text-shadow: 2px 2px 4px #003442, 2px 2px 8px white;}
